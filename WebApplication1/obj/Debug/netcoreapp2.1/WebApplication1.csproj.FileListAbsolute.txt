@@ -1,0 +1,76 @@
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\Domain.Services.dll
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\Domain.Services.pdb
+C:\Users\b.khodakarami\source\repos\WebApplication1\bin\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\b.khodakarami\source\repos\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\Domain.Services.dll
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\Domain.Services.pdb
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\bin\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\b.khodakarami\source\repos\New folder\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\Domain.Services.dll
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\Domain.Services.pdb
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\Domain.Services.dll
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\Domain.Services.pdb
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\bin\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb

@@ -1,0 +1,177 @@
+﻿@model UI.ViewModels.CreateInvoiceViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Invoice</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+<<<<<<< HEAD
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<div class="form-group">
+                    <label asp-for="CustomerId" class="control-label"></label>
+                    <input asp-for="CustomerId" class="form-control" />
+                    <span asp-validation-for="CustomerId" class="text-danger"></span>
+                </div>*@
+            <div class="form-group">
+                <label asp-for="Customer.FirstName" class="control-label"></label>
+                <input asp-for="Customer.FirstName" class="form-control" readonly />
+                <span asp-validation-for="Customer.FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Customer.LastName" class="control-label"></label>
+                <input asp-for="Customer.LastName" class="form-control" readonly />
+                <span asp-validation-for="Customer.LastName" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-9">
+                <select asp-for="Item.ProductId" class="form-control" asp-items="@(new SelectList(Model.Products))">
+
+                    <option selected="selected" value="">Please select</option>
+                </select>
+                <span asp-validation-for="Item.ProductId" class="text-danger" />
+            </div>
+            <button type="button" class="btn btn-primary add-product">Add Product</button>
+            <div class="form-group">
+                <label asp-for="Invoice.TotalPrice" class="control-label"></label>
+                <input asp-for="Invoice.TotalPrice" class="form-control" readonly />
+                <span asp-validation-for="Invoice.TotalPrice" class="text-danger"></span>
+            </div>
+            <div id="myPartialViewDiv">
+                @{Html.RenderPartial("_CreateInvoicePartialView", Model.Items);
+                }
+            </div>
+
+=======
+         
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group row">
+
+                <div class="form-group">
+                    <label asp-for="customer.FirstName" class="control-label col-md-3"></label>
+                    <input asp-for="customer.FirstName" class="form-control col " readonly />
+                    <span asp-validation-for="customer.FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="customer.LastName" class="control-label col-md-6"></label>
+                    <input asp-for="customer.LastName" class="form-control" readonly/>
+                    <span asp-validation-for="customer.LastName" class="text-danger"></span>
+                </div>
+
+            </div>
+
+            <td>
+                @Html.DropDownList("Product",
+                 new SelectList(Model.products)
+                 ,
+                 new { @class = "form-control" })
+            </td>
+            <td>
+                <button type="button" class="btn btn-info">Add item</button>
+            </td>
+            @foreach (var item in Model.items)
+            {
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+
+                <td>
+                    <button type="button" class="btn btn-warning">Remove item</button>
+                </td>
+
+                @*<div class="form-group row">
+                <label asp-for="item." class="col-md-3  control-label"></label>
+                <div class="col-md-9">
+                    <select asp-for="CustomerId" class="form-control" asp-items="Html.GetEnumSelectList<Models.Car.GearBox>()">
+                        <option selected="selected" value="">Please select</option>
+                    </select>
+                    <span asp-validation-for="CustomerId" class="text-danger" />
+                </div>
+            </div>*@
+            }
+            @*@foreach (var item in Model.items)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink("Add Invoice", "Create", "InvoicesController", new { id = item.Id })
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pr)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+                </tr>
+                }*@
+            @*<div class="form-group">
+            <label asp-for="TotalPrice" class="control-label"></label>
+            <input asp-for="TotalPrice" class="form-control" />
+            <span asp-validation-for="TotalPrice" class="text-danger"></span>
+        </div>*@
+            <div class="form-group">
+                <label asp-for="invoice.TotalPrice" class="control-label"></label>
+                <input asp-for="invoice.TotalPrice" class="form-control" readonly/>
+                <span asp-validation-for="invoice.TotalPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="invoice.AddedDate" class="control-label"></label>
+                <input asp-for="invoice.AddedDate" class="form-control"readonly />
+                <span asp-validation-for="invoice.AddedDate" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="invoice.ModifiedDate" class="control-label"></label>
+                <input asp-for="invoice.ModifiedDate" class="form-control" />
+                <span asp-validation-for="invoice.ModifiedDate" class="text-danger"></span>
+            </div>*@
+>>>>>>> test_branch
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+<<<<<<< HEAD
+
+}
+
+$(document).Ready(function(){
+
+
+$('.add-product').click(function(){
+
+    $.ajax({
+
+        url: '@Url.Action("AddItem", "Items")',
+        type:"GET",
+        dataType: "html",
+        //data: { id: 1 },//this is as per your requirement
+        success: function (data) {
+        $('#div_to_load_PartialView').html(data);
+        },
+        });
+
+        })
+=======
+}
+>>>>>>> test_branch

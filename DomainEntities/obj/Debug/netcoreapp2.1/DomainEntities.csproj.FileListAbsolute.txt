@@ -1,0 +1,36 @@
+C:\Users\b.khodakarami\source\repos\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.deps.json
+C:\Users\b.khodakarami\source\repos\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\source\repos\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\b.khodakarami\source\repos\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.csprojAssemblyReference.cache
+C:\Users\b.khodakarami\source\repos\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\b.khodakarami\source\repos\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.AssemblyInfoInputs.cache
+C:\Users\b.khodakarami\source\repos\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.AssemblyInfo.cs
+C:\Users\b.khodakarami\source\repos\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\source\repos\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.deps.json
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.csprojAssemblyReference.cache
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.AssemblyInfoInputs.cache
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.AssemblyInfo.cs
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\source\repos\New folder\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.deps.json
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.csprojAssemblyReference.cache
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.AssemblyInfoInputs.cache
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.AssemblyInfo.cs
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\b.khodakarami\Documents\Projects\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.deps.json
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\bin\Debug\netcoreapp2.1\DomainEntities.pdb
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.csprojAssemblyReference.cache
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.AssemblyInfoInputs.cache
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.AssemblyInfo.cs
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.dll
+C:\Users\Bita\Documents\Projects\i3\invoiceproject\DomainEntities\obj\Debug\netcoreapp2.1\DomainEntities.pdb
